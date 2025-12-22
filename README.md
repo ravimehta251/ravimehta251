@@ -78,19 +78,7 @@ I specialize in:
 
 ---
 
-## 🤝 Establish Connection
 
-<p align="center">
-  <a href="https://github.com/ravimehta251">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ravi_kumar_129">
-    <img src="https://img.shields.io/badge/-LeetCode-20C20E?style=for-the-badge&logo=LeetCode&logoColor=black" height="45" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:ravi7481081raj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-</p>
 
 <p align="center">
   <b>Uplink:</b> +91-7707000206
