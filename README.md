@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=20C20E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ravi+Kumar+👋;Backend+Developer;Core+Java+%7C+Spring+%7C+Docker;System+Architecture+%26+Data+Structures+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=20C20E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ravi+Kumar+👋;Backend+Developer;Core+Java+%7C+OOAD+%7C+Data+Structures;Building+Production-Grade+Systems+🚀" />
 </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/wave.gif" width="100%" />
@@ -8,14 +8,14 @@
 
 ## 🎯 **Terminal: ~/AboutMe**
 
-[cite_start]I’m **Ravi Kumar**, a software developer focused on building high-performance backend services and production-grade applications[cite: 4, 5]. [cite_start]Currently pursuing my **B.E. in Information Science Engineering** at JSS Academy of Technical Education with a **CGPA of 8.0**[cite: 7, 9, 11].
+I’m **Ravi Kumar**, a software developer focused on building high-performance backend services and production-grade applications. I am currently pursuing my **B.E. in Information Science Engineering** at JSS Academy of Technical Education with a **CGPA of 8.0**.
 
 I specialize in:
-- [cite_start]⚡ **Backend Development:** Core Java [cite: 12][cite_start], APIs [cite: 19][cite_start], and server-side logic[cite: 5].
-- [cite_start]🏗️ **Architecture:** OOAD, Design Patterns [cite: 4][cite_start], and Data Structures & Algorithms[cite: 4].
-- [cite_start]🐳 **Infrastructure:** Containerization using Docker [cite: 15] [cite_start]and Linux environments[cite: 6].
-- [cite_start]📊 **Data:** SQL (MySQL) [cite: 12, 29] [cite_start]and NoSQL (MongoDB) databases[cite: 16].
-- [cite_start]🎨 **Frontend:** Responsive PWAs using React.js and Tailwind CSS[cite: 13, 22].
+- ⚡ **Backend Development:** Core Java, REST APIs, and server-side logic.
+- 🏗️ **Architecture:** OOAD, Design Patterns, and Data Structures & Algorithms.
+- 🐳 **Infrastructure:** Containerization using Docker and Linux environments.
+- 📊 **Data:** SQL (MySQL) and NoSQL (MongoDB) databases.
+- 🎨 **Frontend:** Responsive PWAs using React.js and Tailwind CSS.
 
 ---
 
@@ -48,30 +48,30 @@ I specialize in:
   <img src="https://img.shields.io/badge/REST_API-20C20E?style=for-the-badge&logoColor=black" />
 </p>
 
-> [cite_start]Built a responsive PWA for reporting civic waste issues using automated location detection and image uploads[cite: 21, 22].
+> Built a responsive PWA for reporting civic waste issues using automated location detection and image uploads.
 
-[cite_start]**Status:** [Live Deployment](https://snap2clean.vercel.app) [cite: 26]
+**Status:** [Live Deployment](https://snap2clean.vercel.app)
 
 <details>
 <summary>✨ System Logs</summary>
 
-- [cite_start]Implemented reverse geocoding and automated complaint-routing logic[cite: 23].
-- [cite_start]Integrated cloud-hosted image storage and email-based reporting[cite: 24].
-- [cite_start]Developed a citizen-to-authority workflow using a REST API backend[cite: 23].
+- Implemented reverse geocoding and automated complaint-routing logic.
+- Integrated cloud-hosted image storage and email-based reporting.
+- Developed a citizen-to-authority workflow using a REST API backend.
 
 </details>
 
 ---
 
 ## 📝 **Quiz Application — Java-Based Assessment System**
-> [cite_start]Developed a modular quiz evaluation platform using Core Java with role-based authentication[cite: 25, 27].
+> Developed a modular quiz evaluation platform using Core Java with role-based authentication.
 
 <details>
 <summary>✨ System Logs</summary>
 
-- [cite_start]Features timer-based quizzes, adaptive scoring, and a real-time leaderboard[cite: 28].
-- [cite_start]Managed concurrent user access and session handling[cite: 28].
-- [cite_start]Designed a normalized MySQL schema for managing users, questions, and analytics[cite: 29].
+- Features timer-based quizzes, adaptive scoring, and a real-time leaderboard.
+- Managed concurrent user access and session handling.
+- Designed a normalized MySQL schema for managing users, questions, and analytics.
 
 </details>
 
@@ -112,7 +112,7 @@ I specialize in:
 </p>
 
 <p align="center">
-  [cite_start]<b>Uplink:</b> +91-7707000206 [cite: 2]
+  <b>Uplink:</b> +91-7707000206
 </p>
 
 <p align="center">
