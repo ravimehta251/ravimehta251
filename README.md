@@ -1,183 +1,137 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=20C20E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ravi+Kumar+👋;Backend+Developer;Core+Java+%7C+OOAD+%7C+Data+Structures;Building+Production-Grade+Systems+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2800&color=20C20E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ravi+Kumar+👋;Backend+Software+Engineer;Spring+Boot+%7C+Security+%7C+Microservices;Building+Scalable+Production+Systems+🚀" />
 </p>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/wave.gif" width="100%" />
 
 ---
 
-## 🎯 **Terminal: ~/AboutMe**
+## 🧠 Terminal:
 
-I’m **Ravi Kumar**, a software developer focused on building high-performance backend services and production-grade applications. I am currently pursuing my **B.E. in Information Science Engineering** at JSS Academy of Technical Education with a **CGPA of 8.0**.
+I’m **Ravi Kumar**, a **backend-focused software engineering student** who builds **secure, scalable, production-grade systems**.
 
-I specialize in:
-- ⚡ **Backend Development:** Core Java, REST APIs, and server-side logic.
-- 🏗️ **Architecture:** OOAD, Design Patterns, and Data Structures & Algorithms.
-- 🐳 **Infrastructure:** Containerization using Docker and Linux environments.
-- 📊 **Data:** SQL (MySQL) and NoSQL (MongoDB) databases.
-- 🎨 **Frontend:** Responsive PWAs using React.js and Tailwind CSS.
+I work primarily with **Java & Spring Boot**, focusing on:
+- clean architecture  
+- API security  
+- real-world backend performance  
+- AI-integrated applications  
+
+🎓 **B.E. in Information Science & Engineering**  
+📍 JSS Academy of Technical Education, Bengaluru  
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=20C20E&size=28&center=true&vCenter=true&width=450&lines=⚙️+System+Capabilities" />
-</h2>
+## ⚙️ System Capabilities
 
-### **Languages & Frontend**
+### 🧩 Backend & Core
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,tailwind,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,maven&perline=6" />
 </p>
 
-### **Databases & DevOps**
+- Core & Advanced Java  
+- Spring Boot, Spring MVC  
+- Spring Security (JWT, OAuth2)  
+- RESTful API Design  
+- Microservices Architecture  
+
+---
+
+### 🗄️ Databases & Storage
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,linux,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb&perline=6" />
 </p>
 
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=20C20E&size=28&center=true&vCenter=true&width=450&lines=🚀+Deployed+Projects" />
-</h2>
+- MySQL, PostgreSQL  
+- MongoDB  
+- JDBC, Spring Data JPA, Hibernate  
 
 ---
 
-## 🌍 **Snap2Clean — Civic Waste Reporting Web App**
+### 🌐 Frontend (Supporting Role)
 <p align="center">
-  <img src="https://img.shields.io/badge/React.js-20C20E?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-20C20E?style=for-the-badge&logo=tailwind-css&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-20C20E?style=for-the-badge&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&perline=6" />
 </p>
 
-> Built a responsive PWA for reporting civic waste issues using automated location detection and image uploads.
-> Implemented reverse geocoding and automated complaint-routing logic using a REST API backend.
-
-**Status:** [Live Deployment](https://snap2clean.vercel.app)
-
----
-
-## 📝 **Quiz Application — Java-Based Assessment System**
-> Developed a modular quiz evaluation platform using Core Java with role-based authentication.
-> Features timer-based quizzes, adaptive scoring, and a real-time leaderboard.
-> Designed a normalized MySQL schema for managing users, questions, and analytics.
+- React.js (functional, API-driven UI)
+- Tailwind CSS
+- Clean integration with backend APIs
 
 ---
->
 
-
-
-
-<Here is the updated footer code. I have removed all citation markers and added a live visitor counter, a scrolling skill marquee, and a dynamic status section to give it a more "hacker" and interactive feel.
-
-Markdown
-
+### 🛠️ DevOps & Tooling
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=2800&color=20C20E&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ravi+Kumar+👋;Backend+Developer;Core+Java+%7C+OOAD+%7C+Data+Structures;Building+Production-Grade+Systems+🚀" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman&perline=6" />
 </p>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.github/wave.gif" width="100%" />
+- Dockerized applications  
+- Linux-based environments  
+- Maven build pipelines  
+- API testing & debugging  
 
 ---
 
-## 🎯 **Terminal: ~/AboutMe**
+## 🚀 Production-Grade Projects
 
-I’m **Ravi Kumar**, a software developer focused on building high-performance backend services and production-grade applications. Currently pursuing my **B.E. in Information Science Engineering** at JSS Academy of Technical Education with a **CGPA of 8.0**.
+### 🤖 GenAI Assistant & Media Application
+**Tech:** Spring Boot · Spring AI · LLMs · React · REST APIs  
+📅 *Jan 2026*
 
-I specialize in:
-- ⚡ **Backend Development:** Core Java, REST APIs, and server-side logic.
-- 🏗️ **Architecture:** OOAD, Design Patterns, and Data Structures & Algorithms.
-- 🐳 **Infrastructure:** Containerization using Docker and Linux environments.
-- 📊 **Data:** SQL (MySQL) and NoSQL (MongoDB) databases.
-- 🎨 **Frontend:** Responsive PWAs using React.js and Tailwind CSS.
-
----
-
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=20C20E&size=28&center=true&vCenter=true&width=450&lines=⚙️+System+Capabilities" />
-</h2>
-
-### **Languages & Frontend**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,react,tailwind,html,css&perline=8" />
-</p>
-
-### **Databases & DevOps**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,linux,postman&perline=8" />
-</p>
+- Built a full-stack AI web app using **Spring AI + LLMs**
+- Designed secure REST APIs to orchestrate prompt-response workflows
+- Integrated **third-party Stock Photo APIs** for real-time contextual media
+- React frontend for seamless AI-driven user interaction
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=20C20E&size=28&center=true&vCenter=true&width=450&lines=🚀+Deployed+Projects" />
-</h2>
+### 🛒 Full-Stack E-Commerce Storefront
+**Tech:** Spring Boot · Spring Security · MongoDB · React  
+📅 *Sep 2025*
+
+- Architected scalable backend services for users, products, and orders
+- Implemented **JWT-based stateless authentication**
+- Ensured transactional consistency with **Spring Data JPA & Hibernate**
+- Responsive React frontend for cart and product management
 
 ---
 
-## 🌍 **Snap2Clean — Civic Waste Reporting Web App**
-<p align="center">
-  <img src="https://img.shields.io/badge/React.js-20C20E?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-20C20E?style=for-the-badge&logo=tailwind-css&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST_API-20C20E?style=for-the-badge&logoColor=black" />
-</p>
+### 🌍 Snap2Clean — Civic Issue Reporting Platform
+**Tech:** React · REST APIs · Maps API · MySQL  
 
-> Built a responsive PWA for reporting civic waste issues using automated location detection and image uploads.
-> Implemented reverse geocoding and automated complaint-routing logic using a REST API backend.
-
-**Status:** [Live Deployment](https://snap2clean.vercel.app)
+- Civic issue reporting platform with image uploads & geolocation
+- Automated complaint routing logic
+- 🏆 **2nd Runner-Up – JSSATE Hackathon**
 
 ---
 
-## 📝 **Quiz Application — Java-Based Assessment System**
-> Developed a modular quiz evaluation platform using Core Java with role-based authentication.
-> Features timer-based quizzes, adaptive scoring, and a real-time leaderboard.
-> Designed a normalized MySQL schema for managing users, questions, and analytics.
+## 🧠 Problem Solving & Achievements
+
+- ✅ Solved **300+ DSA problems** on LeetCode  
+- 🏆 **Runner-Up – HackAthena 2025** (National-level hackathon, 1,259 teams)  
+- Strong foundations in **OS, DBMS, Computer Networks, DSA**
 
 ---
 
+## 📬 Connect
 
+- 📧 **Email:** ravi7481081raj@gmail.com  
+- 🐙 **GitHub:** https://github.com/ravimehta251  
+- 💻 **LeetCode:** https://leetcode.com/u/ravi_kumar_129  
 
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="33%"><b>🎓 Education</b></td>
-    <td align="center" width="33%"><b>🌐 Connect</b></td>
-    <td align="center" width="33%"><b>🗣️ Languages</b></td>
-  </tr>
-  <tr>
-    <td align="left">
-      • <b>B.E. Information Science</b><br>
-      • JSSATE, Bengaluru<br>
-      • CGPA: <b>8.0</b><br>
-      • (2023 - 2027)
-    </td>
-    <td align="left">
-      • 📞 +91-7707000206<br>
-      • 📧 <a href="mailto:ravi7481081raj@gmail.com">Email Me</a><br>
-      • 🐙 <a href="https://github.com/ravimehta251">GitHub Profile</a><br>
-      • 💻 <a href="https://leetcode.com/u/ravi_kumar_129">LeetCode Stats</a>
-    </td>
-    <td align="left">
-      • ✅ English (Fluent)<br>
-      • ✅ Hindi (Native)<br>
-      • 📜 SQL Analytics (2024)
-    </td>
-  </tr>
-</table>
+---
 
 <p align="center">
-  <br />
   <img src="https://komarev.com/ghpvc/?username=ravimehta251&color=20C20E&style=flat-square&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-Active-20C20E?style=for-the-badge&logo=linux&logoColor=black" /> 
-  <img src="https://img.shields.io/badge/Collaborations-Open-20C20E?style=for-the-badge&logo=git&logoColor=black" />
+  <img src="https://img.shields.io/badge/System-Active-20C20E?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Focused-20C20E?style=for-the-badge&logo=spring&logoColor=black" />
 </p>
 
 <p align="center">
-  <i>"Hands-on software developer with strong foundations in Core Java and OOAD."</i>
+  <i>"I build backend systems that survive real-world usage."</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=20C20E&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=20C20E&height=70&section=footer" width="100%"/>
 </p>
