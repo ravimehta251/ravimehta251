@@ -105,7 +105,7 @@ I work primarily with **Java & Spring Boot**, focusing on:
 
 ## 🧠 Problem Solving & Achievements
 
-- ✅ Solved **300+ DSA problems** on LeetCode  
+- ✅ Solved **500+ DSA problems** on LeetCode  
 - 🏆 **Runner-Up – HackAthena 2025** (National-level hackathon, 1,259 teams)  
 - Strong foundations in **OS, DBMS, Computer Networks, DSA**
 
