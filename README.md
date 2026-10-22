@@ -261,7 +261,7 @@ ravi_cgpa{program="B.E. ISE"}                                                   
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ravimehta251&bg_color=0d1117&color=8b949e&line=20C20E&point=e6edf3&area=true&area_color=20C20E&title_color=20C20E&hide_border=true&custom_title=commit%20throughput%20%C2%B7%20last%2031%20days" width="100%" alt="contribution activity graph"/>
+  <img src="https://ghchart.rshah.org/20C20E/ravimehta251" width="100%" alt="GitHub contribution chart"/>
 </p>
 
 ## ~/connect
@@ -272,7 +272,6 @@ ravi_cgpa{program="B.E. ISE"}                                                   
 | `GET` | 💼 linkedin | [linkedin.com/in/ravi-mehta2511](https://www.linkedin.com/in/ravi-mehta2511/) |
 | `GET` | 💻 leetcode | [leetcode.com/u/ravi_kumar_129](https://leetcode.com/u/ravi_kumar_129) |
 | `GET` | 🐙 github | [github.com/ravimehta251](https://github.com/ravimehta251) |
-| `GET` | 🌐 portfolio | [View my portfolio](YOUR_PORTFOLIO_URL) |
 
 <p align="center">
   <br/>
