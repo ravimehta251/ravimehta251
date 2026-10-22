@@ -272,6 +272,7 @@ ravi_cgpa{program="B.E. ISE"}                                                   
 | `GET` | 💼 linkedin | [linkedin.com/in/ravi-mehta2511](https://www.linkedin.com/in/ravi-mehta2511/) |
 | `GET` | 💻 leetcode | [leetcode.com/u/ravi_kumar_129](https://leetcode.com/u/ravi_kumar_129) |
 | `GET` | 🐙 github | [github.com/ravimehta251](https://github.com/ravimehta251) |
+| `GET` | 🌐 portfolio | [ravisingh.online](ravisingh.online) |
 
 <p align="center">
   <br/>
